@@ -1,1 +1,15 @@
 /* you can add any styles you think could improve user's experience */
+.elemenList{
+    display: inline-block;
+    width: 12%;
+    border:1px solid rgb(79, 77, 77);
+    padding: 5px;
+    margin:10px;
+    background-color: #fff
+}
+.elemenList:hover{
+   /* position: relative;
+   width: 20%; */
+   transform: scale(1.1);
+   transition-duration: 1s;
+}
