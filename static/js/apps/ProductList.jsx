@@ -6,7 +6,9 @@ export const ProductList = (id) => {
 
     const ProductListClick = (id) => {
         console.log('ProductListClick', id);
-        
+        // <div>
+        //     {id}
+        // </div>
     
     }
 
